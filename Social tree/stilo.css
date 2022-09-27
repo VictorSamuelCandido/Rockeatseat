@@ -1,0 +1,94 @@
+body{
+    #FAF7FD;
+}
+
+.imagem{
+    border: 5px solid rgb(98, 210, 255);
+    border-radius: 230px;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.instagram{
+    font-size:20px;
+    color: rgb(98, 210, 255);
+    display: block;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.links{
+    text-align: center;
+}
+main .links .caixa1 #link1{
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(98, 210, 255);
+    border-radius: 5px;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: 20px 0px 0px 15px;
+    height: 44px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+main .links .caixa2 #link2{
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(98, 210, 255);
+    border-radius: 5px;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: 20px 0px 0px 15px;
+    height: 44px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+main .links .caixa3 #link3{
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(98, 210, 255);
+    border-radius: 5px;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: 20px 0px 0px 15px;
+    height: 44px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif; 
+}
+main .links .caixa4 #link4{
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(98, 210, 255);
+    border-radius: 5px;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: 20px 0px 15px 15px;
+    height: 44px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+footer #twiter{
+    width: 40px;
+    margin: auto;
+}
+footer #twitch{
+    width: 35px;
+    margin: auto;
+}
+footer #instagram{
+    width: 40px;
+    margin: auto;
+}
+footer #linkedin{
+    width: 36px;
+    margin: auto;
+}
+footer #github{
+    width: 40px;
+    margin: auto;
+}
+
