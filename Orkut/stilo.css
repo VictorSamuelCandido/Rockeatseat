@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(200, 201, 221);
+}
+main{
+    width: 100%;
+}
+.esquerda{
+    background-color: white;
+    padding: 50px;
+    width: 1090px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.aviso{
+    margin-top: 150px;
+    padding-left: 10px;
+    background-color: yellow;
+    width: 1525px;
+    height: 40px;
+    margin-left: 100px;
+}
+
+.aviso .avisu  #teste{
+    color: red;
+    font-size: 20px;
+}
+main{
+    display: flex;
+}
+#logo{
+    text-align: center;
+    padding-top: 130px;
+}
+.text{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-left: 20px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.text strong{
+    color: rgb(255, 0, 149);
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.bloco2 {
+    background-color: rgb(165, 173, 245);
+    padding: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border:2px solid rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.bloco2  #caixa{
+    padding-top: 10px;
+}
+.bloco{
+    background-color: rgb(165, 173, 245);
+    padding: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    border:2px solid rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif ;
+}
+button{
+    color: blue;
+}
+.salvar{
+    width: 300px;
+}
+.footer ul{
+    text-align: center;
+    display: flex;
+    position: absolute;
+    bottom: 0%;
+    margin-left: 700px;
+    gap: 10px;
+}
+
+.footer li,a{
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+}
