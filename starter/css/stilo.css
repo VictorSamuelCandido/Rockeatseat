@@ -1,0 +1,123 @@
+body{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+main{background-color: rgb(221, 221, 221);
+
+}
+#logo{
+    text-align: center;
+}
+.facebook{
+    width: 470px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    
+}
+
+.facebook h1{
+    text-align: center;
+    font-size: 25px;
+    margin: 40px 2px 2px 2px;
+}
+
+.facebook p{
+    text-align: center;
+   
+}
+
+.facebook .hr{
+    background-color: green;
+    width: 20px;
+    height: 20px;
+}
+
+.facebook .genero{
+    width: 73px;
+    font-size: 13px;
+}
+
+.facebook .justifi{
+    text-align: justify;
+    font-size: 11px;
+    margin: 9px 20px 0px 20px;
+
+}
+
+.facebook #botão{
+    background-color: rgb(54, 194, 54);
+    color: white;
+    border: rgb(41, 158, 41);
+    border-radius: 10px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 20px 0px 15px 90px;
+    height: 34px;
+    font-size: 20px;
+    font-weight:  bold;
+}
+.facebook .teste{
+    width: 100px;
+    height: 0px;
+    margin: 0px 0px 0px 15px;
+    padding: 6px 105px 34px 10px;
+    border-radius: 12px;
+    border-color: black;
+    border: rgb(0, 0, 0) 1px solid;
+    
+}
+
+.facebook .email{
+    height: 35px;
+    width: 450px;
+    margin: 10px 20px 10px 10px;
+
+    
+}
+
+.facebook .senha{
+    height: 35px;
+    width: 450px;
+    margin: 0px 0px 0px 10px;
+}
+
+.facebook .sobrenome{
+    width: 220px;
+    height: 35px;
+    margin: 0px 0px 0px 6px;
+}
+
+.facebook .nome{
+    width: 220px;
+    height: 35px;
+    margin: 0px 0px 0px 10px;
+}
+
+.facebook .tabela{
+    width: 200px;
+    height: 35px;
+
+}
+
+.facebook .data{
+    width: 137px;
+    height: 20px;
+    margin: 20px 0px 0px 10px;
+    font-size: 13px;
+}
+
+.letras ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.letras li,a{
+    list-style: none;
+    text-decoration: none;
+    font-size: 10px;
+    
+    
+}
+
